@@ -1,0 +1,4 @@
+.terraform/
+TerraformDemo/
+AWS-Infrastructure-using-Terraform/
+terraform.tfstate.backup
